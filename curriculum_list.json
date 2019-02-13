@@ -1,0 +1,43 @@
+{
+   "header":{
+      "error":false,
+      "message":"Curriculum list fetched successfully!"
+   },
+   "body":{
+      "curriculum":{
+         "sections":[
+
+         ],
+         "override":[
+
+         ],
+         "subscription":{
+            "my_rating":0
+         }
+      },
+      "transition":{
+         "transition_contents":[
+            {
+               "id":"36",
+               "tc_content":"The countries which have a common border with India are Pakistan, Afghanistan, China, Nepal, Bhutan, Myanmar and Bangladesh."
+            },
+            {
+               "id":"39",
+               "tc_content":"India shares the longest border with Bangladesh (4,000 km appx)."
+            },
+            {
+               "id":"57",
+               "tc_content":"The National Emblem is an adaptation from the Sarnath Lion Capital of Ashoka."
+            },
+            {
+               "id":"63",
+               "tc_content":"The National Emblem was adopted by the Government of India on 26 January 1950."
+            },
+            {
+               "id":"102",
+               "tc_content":"The national animal is Tiger (Panthera tigris)"
+            }
+         ]
+      }
+   }
+}
