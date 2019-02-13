@@ -13,7 +13,7 @@
           "lecture_count" : 15,
           "duration" : 3,
           "level" : "intermediate",
-          "description": "",
+          "description": "Learn how to use Karma, Jasmine and Istanbul to quickly set up automated unit tests for your AngularJS applications",
           "quick_view" : [
               "Build great AngularJS 1.X applications that will never fail unexpectedly",
               "Gain the required skills to use the most popular AngularJS testing tools, including Karma, Jasmine and Istanbul",
