@@ -2,6 +2,26 @@
   "courses": [
     {
       "course_id" : 1,
+      "course_url" : "https://udemy-images.udemy.com/course/240x135/756150_c033_2.jpg",
+      "course_name" : "Angular 7 (formerly Angular 2) - The Complete Guide",
+      "trainer": "Maximilian Schwarzmüller",
+      "rating": 4.6,
+      "rating_count": 74135,
+      "course_details" :{
+          "technology": "AngularJS",
+          "area": "Development",
+          "lecture_count" : 422,
+          "duration" : 28,
+          "level" : "All levels",
+          "description": " Master AngularJs and build awesome, reactive web apps with the successor of Angular.js",
+          "quick_view" : [
+              "Develop modern, complex, responsive and scalable web applications with Angular 7",
+              "Fully understand the architecture behind an Angular 7 application and how to use it",
+              "Use their gained, deep understanding of the Angular 7 fundamentals to quickly establish themselves as frontend developers"]
+     }
+    },
+    {
+      "course_id" : 2,
       "image_url" : "https://udemy-images.udemy.com/course/240x135/617158_44af_9.jpg",
       "course_name" : "Unit Testing AngularJS: Build Bugfree Apps That Always Work!",
       "trainer": "Matthias Kentzia",
@@ -22,32 +42,11 @@
       }
     },
      {
-      "course_id" : 2,
-      "image_url" : "https://udemy-images.udemy.com/course/240x135/437398_46c3_9.jpg",
-      "course_name" : "Unit Testing AngularJS: Build Bugfree Apps That Always Work!",
-      "trainer": "Matthias Kentzia",
-      "rating": 4.5,
-      "rating_count": 345,
-      "course_details" :{
-          "technology": "AngularJS",
-          "area": "Development",
-          "lecture_count" : 15,
-          "duration" : 3,
-          "level" : "intermediate",
-          "description": "Learn how to use Karma, Jasmine and Istanbul to quickly set up automated unit tests for your AngularJS applications",
-          "quick_view" : [
-              "Build great AngularJS 1.X applications that will never fail unexpectedly",
-              "Gain the required skills to use the most popular AngularJS testing tools, including Karma, Jasmine and Istanbul",
-              "Spend more time creating amazing new features instead of fixing bugs"
-          ]
-      }
-    },
-     {
       "course_id" : 3,
       "image_url" : "https://udemy-images.udemy.com/course/240x135/437398_46c3_9.jpg",
       "course_name" : "Unit Testing AngularJS: Build Bugfree Apps That Always Work!",
       "trainer": "Matthias Kentzia",
-      "rating": 4,
+      "rating": 4.5,
       "rating_count": 345,
       "course_details" :{
           "technology": "AngularJS",
