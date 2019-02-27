@@ -1,8 +1,5 @@
 {
-   "header":{
-      "error":false,
-      "message":"Curriculum list fetched successfully!"
-   },
+   
    "body":{
       "curriculum":{
          "c_id": 1,
