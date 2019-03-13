@@ -4,7 +4,7 @@
       "course_id" : 9,
       "image_url" : "https://s3.amazonaws.com/ekhool/course+images/biotechnology-engineering-500x500.png",
       "course_name" : "Biotechnology",
-      "trainer": "Asha and Makesh",
+      "trainer": "Asha and Magesh",
       "rating": 4.1,
       "rating_count": 14135,
       "course_details" :{
@@ -16,7 +16,7 @@
           "description": "The complete content is developed in High Quality 3D Animation, that will help you to understand the critical concepts.",
           "quick_view" : [
               "Biotechnological applications in agriculture",
-              "Process of recombinant DNA technology",
+              "Process of recombinant DNA technology"
               ]
      }
     },
@@ -37,7 +37,7 @@
           "quick_view" : [
               "The goal of this course is to provide students with a solid foundation in Ayurveda.",
               "The goal is for the student to be able to make better food choices based on their individual and unique Doshic Constitution.",
-              "There are no special materials or prerequisite knowledge required for this course.",
+              "There are no special materials or prerequisite knowledge required for this course."
           ]
       }
     },
