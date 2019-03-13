@@ -1,0 +1,87 @@
+{
+  "courses": [
+    {
+      "course_id" : 9,
+      "image_url" : "https://s3.amazonaws.com/ekhool/course+images/biotechnology-engineering-500x500.png",
+      "course_name" : "Biotechnology",
+      "trainer": "Asha and Makesh",
+      "rating": 4.1,
+      "rating_count": 14135,
+      "course_details" :{
+          "technology": "REPRODUCTION, HUMAN ANATOMY, MENSTRUAL CYCLE",
+          "area": "High Quality 3D Animations",
+          "lecture_count" : 322,
+          "duration" : 38,
+          "level" : "All levels",
+          "description": "The complete content is developed in High Quality 3D Animation, that will help you to understand the critical concepts.",
+          "quick_view" : [
+              "Biotechnological applications in agriculture",
+              "Process of recombinant DNA technology",
+              ]
+     }
+    },
+    {
+      "course_id" : 10,
+      "image_url" : "https://s3.amazonaws.com/ekhool/course+images/download.png",
+      "course_name" : "Ayurveda Basics",
+      "trainer": "vinish willson",
+      "rating": 4,
+      "rating_count": 145,
+      "course_details" :{
+          "technology": "Age Old Wisdom of Ayurveda",
+          "area": "yoga's sister science",
+          "lecture_count" : 15,
+          "duration" : 13,
+          "level" : "Beginner",
+          "description": "Make better lifestyle and food choices with the "Age Old Wisdom" of Ayurveda, yoga's sister science.",
+          "quick_view" : [
+              "The goal of this course is to provide students with a solid foundation in Ayurveda.",
+              "The goal is for the student to be able to make better food choices based on their individual and unique Doshic Constitution.",
+              "There are no special materials or prerequisite knowledge required for this course.",
+          ]
+      }
+    },
+     {
+      "course_id" : 11,
+      "image_url" : "https://s3.amazonaws.com/ekhool/course+images/chemistry-icon-vector-3167070.jpg",
+      "course_name" : "Basic Principles Of Chemistry",
+      "trainer": "Anusuyaram",
+      "rating": 4.4,
+      "rating_count": 45,
+      "course_details" :{
+          "technology": "fundamental concepts of Chemistry ",
+          "area": "Become A Chemistry 1 Master",
+          "lecture_count" : 15,
+          "duration" : 3,
+          "level" : "intermediate",
+          "description": "A comprehensive course in basic fundamental concepts of Chemistry covering everything for future exams in Chemistry.",
+          "quick_view" : [
+              "Know the Three State of Maters and Units of Measurements.",
+              "Determine if the results you obtained are Accurate and Precise.",
+              "know the Law of Conservation and law of Multiple Proportions."
+          ]
+      }
+    },
+     {
+      "course_id" : 12,
+      "image_url" : "https://s3.amazonaws.com/ekhool/course+images/180601-atomi-mn-1540_f415a90a9f0fcbddc7dfa4cc7b5a36c3.fit-760w.jpg",
+      "course_name" : "An introduction to the physics of space flight.",
+      "trainer": "AnushyaRam Arun",
+      "rating": 4.9,
+      "rating_count": 345,
+      "course_details" :{
+          "technology": "introduction to the physics",
+          "area": "space flight.",
+          "lecture_count" : 115,
+          "duration" : 13,
+          "level" : "intermediate",
+          "description": "Have a basic understanding of concepts such as velocity, acceleration, momentum, kinetic and potential energy.",
+          "quick_view" : [
+              "Get the help you need when you need it by using the Q & A tab.",
+              "Learn how to answer HSC physics questions to maximize your marks.",
+              "Describe and discuss Galileo’s analysis of projectile motion."
+          ]
+      }
+    }
+  ]
+}
