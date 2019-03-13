@@ -1,87 +1,86 @@
 {
-  "courses": [
-    {
-      "course_id" : 5,
-      "image_url" : "https://s3.amazonaws.com/ekhool/course+images/Aerospace+Engineering.jpg",
-      "course_name" : "Aerospace Engineering: Aircraft Fundamentals and Advanced",
-      "trainer": "Binu and Vinolin",
-      "rating": 4.3,
-      "rating_count": 34135,
-      "course_details" :{
-          "technology": "Aerospace Engineering",
-          "area": "Aircraft Fundamentals and Advanced",
-          "lecture_count" : 322,
-          "duration" : 38,
-          "level" : "All levels",
-          "description": "Aerospace and Aeronautical Engineering: Master the Mechanics of Airplanes - Aerodynamics, Flight Maneuvers, JET Engines",
-          "quick_view" : [
-              "Understand the basics of Aerospace Engineering",
-              "Understand the basics of stability and Aircraft Designs"
-              ]
-     }
-    },
-    {
-      "course_id" : 6,
-      "image_url" : "https://s3.amazonaws.com/ekhool/course+images/ENGINEERING_LOGOS.jpg",
-      "course_name" : "Computer Network: Networking fundamentals + Wireshark Basics",
-      "trainer": "Rajakumar and vinisha",
-      "rating": 4.8,
-      "rating_count": 145,
-      "course_details" :{
-          "technology": "Computer Networking",
-          "area": "Computer Networks",
-          "lecture_count" : 15,
-          "duration" : 13,
-          "level" : "Beginner",
-          "description": "You will understand how computer networks are designed, implemented and applied at each layer.",
-          "quick_view" : [
-              "Structured Content with each section dedicated to unique aspect of Computer Networks",
-              "Dynamic Lecture presentations with example demonstrations wherever necessary to help students learn by visualization",
-              "Lifetime Free Upgrades: New Lectures, Resources, Tips and Interview guides added regularly to keep up with current job markets.",
-          ]
-      }
-    },
-     {
-      "course_id" : 7,
-      "image_url" : "https://s3.amazonaws.com/ekhool/course+images/ENGINEERING_LOGOS_1.jpg",
-      "course_name" : "Chemical Engineering as a Professional Career",
-      "trainer": "Abin and Menaka",
-      "rating": 4.4,
-      "rating_count": 45,
-      "course_details" :{
-          "technology": "Chemical Engineering",
-          "area": "Student life & Professional Lifeopment",
-          "lecture_count" : 15,
-          "duration" : 3,
-          "level" : "intermediate",
-          "description": "Ever wonder about Engineering? Or more specifically, about Chemical Engineering?",
-          "quick_view" : [
-              "Understand the Basics on Chemical Engineering",
-              "Areas in which a Chemical Engineer can work",
-              "Get to know the Curriculum of a Chemical Engineer"
-          ]
-      }
-    },
-     {
-      "course_id" : 8,
-      "image_url" : "https://s3.amazonaws.com/ekhool/course+images/ENGINEERING_LOGOS_2.jpg",
-      "course_name" : "Electrical Substations for Electrical Engineering",
-      "trainer": "Kenson and jeslin",
-      "rating": 4,
-      "rating_count": 345,
-      "course_details" :{
-          "technology": "Electrical Engineering",
-          "area": " Electric Power System",
-          "lecture_count" : 115,
-          "duration" : 13,
-          "level" : "intermediate",
-          "description": "Course for Electrical Engineering Student who wants to know about Electrical Substations in Electric Power System.",
-          "quick_view" : [
-              "Understand the Great Importance of the Ring Main Unit in Power System.",
-              "Understand the Difference between Circuit Breaker and Fuse.",
-              "Understand the Benefit of Power Transformers in Substations."
-          ]
-      }
-    }
-  ]
+	"courses": [{
+			"course_id": 5,
+			"image_url": "https://s3.amazonaws.com/ekhool/course+images/Aerospace+Engineering.jpg",
+			"course_name": "Aerospace Engineering: Aircraft Fundamentals and Advanced",
+			"trainer": "Binu and Vinolin",
+			"rating": 4.3,
+			"rating_count": 34135,
+			"course_details": {
+				"technology": "Aerospace Engineering",
+				"area": "Aircraft Fundamentals and Advanced",
+				"lecture_count": 322,
+				"duration": 38,
+				"level": "All levels",
+				"description": "Aerospace and Aeronautical Engineering: Master the Mechanics of Airplanes - Aerodynamics, Flight Maneuvers, JET Engines",
+				"quick_view": [
+					"Understand the basics of Aerospace Engineering",
+					"Understand the basics of stability and Aircraft Designs"
+				]
+			}
+		},
+		{
+			"course_id": 6,
+			"image_url": "https://s3.amazonaws.com/ekhool/course+images/ENGINEERING_LOGOS.jpg",
+			"course_name": "Computer Network: Networking fundamentals + Wireshark Basics",
+			"trainer": "Rajakumar and vinisha",
+			"rating": 4.8,
+			"rating_count": 145,
+			"course_details": {
+				"technology": "Computer Networking",
+				"area": "Computer Networks",
+				"lecture_count": 15,
+				"duration": 13,
+				"level": "Beginner",
+				"description": "You will understand how computer networks are designed, implemented and applied at each layer.",
+				"quick_view": [
+					"Structured Content with each section dedicated to unique aspect of Computer Networks",
+					"Dynamic Lecture presentations with example demonstrations wherever necessary to help students learn by visualization",
+					"Lifetime Free Upgrades: New Lectures, Resources, Tips and Interview guides added regularly to keep up with current job markets."
+				]
+			}
+		},
+		{
+			"course_id": 7,
+			"image_url": "https://s3.amazonaws.com/ekhool/course+images/ENGINEERING_LOGOS_1.jpg",
+			"course_name": "Chemical Engineering as a Professional Career",
+			"trainer": "Abin and Menaka",
+			"rating": 4.4,
+			"rating_count": 45,
+			"course_details": {
+				"technology": "Chemical Engineering",
+				"area": "Student life & Professional Lifeopment",
+				"lecture_count": 15,
+				"duration": 3,
+				"level": "intermediate",
+				"description": "Ever wonder about Engineering? Or more specifically, about Chemical Engineering?",
+				"quick_view": [
+					"Understand the Basics on Chemical Engineering",
+					"Areas in which a Chemical Engineer can work",
+					"Get to know the Curriculum of a Chemical Engineer"
+				]
+			}
+		},
+		{
+			"course_id": 8,
+			"image_url": "https://s3.amazonaws.com/ekhool/course+images/ENGINEERING_LOGOS_2.jpg",
+			"course_name": "Electrical Substations for Electrical Engineering",
+			"trainer": "Kenson and jeslin",
+			"rating": 4,
+			"rating_count": 345,
+			"course_details": {
+				"technology": "Electrical Engineering",
+				"area": " Electric Power System",
+				"lecture_count": 115,
+				"duration": 13,
+				"level": "intermediate",
+				"description": "Course for Electrical Engineering Student who wants to know about Electrical Substations in Electric Power System.",
+				"quick_view": [
+					"Understand the Great Importance of the Ring Main Unit in Power System.",
+					"Understand the Difference between Circuit Breaker and Fuse.",
+					"Understand the Benefit of Power Transformers in Substations."
+				]
+			}
+		}
+	]
 }
