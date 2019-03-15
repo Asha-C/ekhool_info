@@ -1,0 +1,17 @@
+{
+	"comments": [{
+			"commentId": 1,
+			"userName": "Shiva",
+			"userImage": "/.",
+			"question": "Is there any discount on this course?",
+			"answer": "As of now there is no special discount to this particular course."
+		},
+		{
+			"commentId": 2,
+			"userName": "Ram",
+			"userImage": "/.",
+			"question": "Can I learn this course in short time?",
+			"answer": "Ofcourse, we have proper guidance and good trainers. They will help you to learn easily."
+		}
+	]
+}
