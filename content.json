@@ -17,7 +17,15 @@
           "quick_view" : [
               "Beginning to advanced MATLAB programming proficiency. This is *the only course* that develops intermediate and advanced programming skills.",
               "Gain skills to solve challenging problems in MATLAB, as opposed to memorizing syntax rules."
-              ]
+              ],
+        "chapters":[{
+            "chapter_no": 1,
+            "chapter_title": "Introduction about Matlab",
+            "video_url":"https://www.youtube.com/embed/sm9m5QSC7Dk",
+            "audio_url": "https://s3.amazonaws.com/ekhool/chapter+2/MATLAB+Function+Plotting+Basics.mp3",
+             "pdf_url": "https://s3.amazonaws.com/ekhool/chapter+2/chapter+2+matlab.pdf",
+             "word_url": "https://s3.amazonaws.com/ekhool/chapter+2/Chapter+4+2018-11-30.docx"           
+        }]
      }
     },
     {
