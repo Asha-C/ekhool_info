@@ -22,7 +22,7 @@
     },
     {
       "course_id" : 2,
-      "image_url" : "https://udemy-images.udemy.com/course/240x135/617158_44af_9.jpg",
+      "image_url" : "https://s3.amazonaws.com/ekhool/99710.jpg",
       "course_name" : "Unit Testing AngularJS: Build Bugfree Apps That Always Work!",
       "trainer": "Matthias Kentzia",
       "rating": 4.5,
