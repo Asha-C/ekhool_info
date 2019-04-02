@@ -53,7 +53,7 @@
     },
      {
       "course_id" : 3,
-      "image_url" : "https://udemy-images.udemy.com/course/240x135/437398_46c3_9.jpg",
+      "image_url" : "https://s3.amazonaws.com/ekhool/c+programming.png",
       "course_name" : "Unit Testing AngularJS: Build Bugfree Apps That Always Work!",
       "trainer": "Matthias Kentzia",
       "rating": 4.5,
@@ -74,7 +74,7 @@
     },
      {
       "course_id" : 4,
-      "image_url" : "https://udemy-images.udemy.com/course/240x135/1035000_c1aa_2.jpg",
+      "image_url" : "https://s3.amazonaws.com/ekhool/php.png",
       "course_name" : "Docker Mastery: The Complete Toolset From a Docker Captain",
       "trainer": "Matthias Kentzia",
       "rating": 4,
