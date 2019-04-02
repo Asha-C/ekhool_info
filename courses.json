@@ -2,28 +2,38 @@
   "courses": [
     {
       "course_id" : 1,
-      "image_url" : "https://udemy-images.udemy.com/course/240x135/1247828_32bb.jpg",
-      "course_name" : "Angular 7 (formerly Angular 2) - The Complete Guide123",
-      "trainer": "Maximilian Schwarzmüller",
+      "image_url" : "https://s3.amazonaws.com/ekhool/course+images/matlab.png",
+      "course_name" : "MATLAB 2018 (formerly matlab) - The Complete Guide",
+      "trainer": "Binu and Rajakumar",
       "rating": 4.6,
       "rating_count": 74135,
       "course_details" :{
-          "technology": "AngularJS",
+          "technology": "MATLAB PROGRAMMING",
           "area": "Development",
           "lecture_count" : 422,
           "duration" : 28,
           "level" : "All levels",
-          "description": " Master AngularJs and build awesome, reactive web apps with the successor of Angular.js",
+          "description": " The course consists of interactive lectures with students doing sample MATLAB problems in real time.",
           "quick_view" : [
-              "Develop modern, complex, responsive and scalable web applications with Angular 7",
-              "Fully understand the architecture behind an Angular 7 application and how to use it",
-              "Use their gained, deep understanding of the Angular 7 fundamentals to quickly establish themselves as frontend developers"]
-     }
+              "Beginning to advanced MATLAB programming proficiency. This is *the only course* that develops intermediate and advanced programming skills.",
+              "Gain skills to solve challenging problems in MATLAB, as opposed to memorizing syntax rules."
+              ]
+       
+     },
+       "chapters":[{
+            "chapter_no": 1,
+            "chapter_title": "Introduction about Matlab",
+            "video_url":"https://www.youtube.com/embed/sm9m5QSC7Dk",
+            "audio_url": "https://s3.amazonaws.com/ekhool/chapter+2/MATLAB+Function+Plotting+Basics.mp3",
+             "pdf_url": "https://s3.amazonaws.com/ekhool/chapter+2/chapter+2+matlab.pdf",
+             "word_url": "https://s3.amazonaws.com/ekhool/chapter+2/Chapter+4+2018-11-30.docx",
+             "live_url": "https://youtu.be/cCPvPypStRg"
+        }]
     },
     {
       "course_id" : 2,
-      "image_url" : "https://s3.amazonaws.com/ekhool/99710.jpg",
-      "course_name" : "123Unit Testing AngularJS: Build Bugfree Apps That Always Work!",
+      "image_url" : "https://udemy-images.udemy.com/course/240x135/617158_44af_9.jpg",
+      "course_name" : "Unit Testing AngularJS: Build Bugfree Apps That Always Work!",
       "trainer": "Matthias Kentzia",
       "rating": 4.5,
       "rating_count": 345,
