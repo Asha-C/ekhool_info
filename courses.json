@@ -23,7 +23,7 @@
     {
       "course_id" : 2,
       "image_url" : "https://s3.amazonaws.com/ekhool/99710.jpg",
-      "course_name" : "Unit Testing AngularJS: Build Bugfree Apps That Always Work!",
+      "course_name" : "123Unit Testing AngularJS: Build Bugfree Apps That Always Work!",
       "trainer": "Matthias Kentzia",
       "rating": 4.5,
       "rating_count": 345,
