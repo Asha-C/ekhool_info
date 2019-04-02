@@ -32,64 +32,64 @@
     },
     {
       "course_id" : 2,
-      "image_url" : "https://s3.amazonaws.com/ekhool/99710.jpg",
-      "course_name" : "Basic Structure Of JAVA(Introduction Tutorial)",
-      "trainer": "Albin Menakha",
-      "rating": 4.3,
+      "image_url" : "https://udemy-images.udemy.com/course/240x135/617158_44af_9.jpg",
+      "course_name" : "Unit Testing AngularJS: Build Bugfree Apps That Always Work!",
+      "trainer": "Matthias Kentzia",
+      "rating": 4.5,
       "rating_count": 345,
       "course_details" :{
-          "technology": "Java",
+          "technology": "AngularJS",
           "area": "Development",
           "lecture_count" : 15,
           "duration" : 3,
           "level" : "Beginner",
-          "description": "How to organize data on arrays and connected lists by the primitive data classes and types.",
+          "description": "Learn how to use Karma, Jasmine and Istanbul to quickly set up automated unit tests for your AngularJS applications",
           "quick_view" : [
-              "Develop and utilize linear data structures, like queues and stacks, which are implemented with connected lists or arrays.",
-              "Understand the basic process of OOP paradigm such as classes, polymorphism, inheritance, interfaces, and etc.",
-              "How to write, compile, and run the basic Java applications."
+              "Build great AngularJS 1.X applications that will never fail unexpectedly",
+              "Gain the required skills to use the most popular AngularJS testing tools, including Karma, Jasmine and Istanbul",
+              "Spend more time creating amazing new features instead of fixing bugs"
           ]
       }
     },
      {
       "course_id" : 3,
-      "image_url" : "https://s3.amazonaws.com/ekhool/c+programming.png",
-      "course_name" : "Learn C language to design your own C program.",
-      "trainer": "Kenson Jasmin",
+      "image_url" : "https://udemy-images.udemy.com/course/240x135/437398_46c3_9.jpg",
+      "course_name" : "Unit Testing AngularJS: Build Bugfree Apps That Always Work!",
+      "trainer": "Matthias Kentzia",
       "rating": 4.5,
       "rating_count": 345,
       "course_details" :{
-          "technology": "C Programming",
+          "technology": "AngularJS",
           "area": "Development",
           "lecture_count" : 15,
           "duration" : 3,
           "level" : "intermediate",
-          "description": "It is easy to learn while comparing with other programming languages.",
+          "description": "Learn how to use Karma, Jasmine and Istanbul to quickly set up automated unit tests for your AngularJS applications",
           "quick_view" : [
-              "How to write the program on Mac or on Windows.",
-              "To write better programs by yourself.",
-              "How to write the program on Mac or on Windows."
+              "Build great AngularJS 1.X applications that will never fail unexpectedly",
+              "Gain the required skills to use the most popular AngularJS testing tools, including Karma, Jasmine and Istanbul",
+              "Spend more time creating amazing new features instead of fixing bugs"
           ]
       }
     },
      {
       "course_id" : 4,
-      "image_url" : "https://s3.amazonaws.com/ekhool/php.png",
-      "course_name" : "Basic PHP Programming Script To Start A Web Application",
-      "trainer": "Sarath Velmurugan",
+      "image_url" : "https://udemy-images.udemy.com/course/240x135/1035000_c1aa_2.jpg",
+      "course_name" : "Docker Mastery: The Complete Toolset From a Docker Captain",
+      "trainer": "Matthias Kentzia",
       "rating": 4,
       "rating_count": 345,
       "course_details" :{
-          "technology": "PHP Programming",
+          "technology": "AngularJS",
           "area": "Development",
           "lecture_count" : 15,
           "duration" : 3,
           "level" : "intermediate",
-          "description": "To study regarding how databases are used and how to begin the online application and also to study the MySQL.",
+          "description": "Learn how to use Karma, Jasmine and Istanbul to quickly set up automated unit tests for your AngularJS applications",
           "quick_view" : [
-              "To learn about PHP security, Email sending, and Password hashing.",
-              "Learn to create pagination, and debug the code.",
-              "To generate a Content Management System."
+              "Build great AngularJS 1.X applications that will never fail unexpectedly",
+              "Gain the required skills to use the most popular AngularJS testing tools, including Karma, Jasmine and Istanbul",
+              "Spend more time creating amazing new features instead of fixing bugs"
           ]
       }
     }
