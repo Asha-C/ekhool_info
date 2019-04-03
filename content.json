@@ -3,7 +3,7 @@
     {
       "course_id" : 1,
       "image_url" : "https://s3.amazonaws.com/ekhool/course+images/matlab.png",
-      "course_name" : "MATLAB 2018 (formerly matlab) - The Complete Guide",
+      "course_name" : "MATLAB 2018 new (formerly matlab) - The Complete Guide",
       "trainer": "Binu and Rajakumar",
       "rating": 4.6,
       "rating_count": 74135,
@@ -32,64 +32,64 @@
     },
     {
       "course_id" : 2,
-      "image_url" : "https://udemy-images.udemy.com/course/240x135/617158_44af_9.jpg",
-      "course_name" : "Unit Testing AngularJS: Build Bugfree Apps That Always Work!",
-      "trainer": "Matthias Kentzia",
+      "image_url" : "https://s3.amazonaws.com/ekhool/99710.jpg",
+      "course_name" : "Advance Java Programming Create Web Application And Platforms!",
+      "trainer": "Bibin Prasadh",
       "rating": 4.5,
       "rating_count": 345,
       "course_details" :{
-          "technology": "AngularJS",
+          "technology": "Java Programming", 
           "area": "Development",
           "lecture_count" : 15,
           "duration" : 3,
           "level" : "Beginner",
-          "description": "Learn how to use Karma, Jasmine and Istanbul to quickly set up automated unit tests for your AngularJS applications",
+          "description": "How to organize data on arrays and connected lists by the primitive data classes and types",
           "quick_view" : [
-              "Build great AngularJS 1.X applications that will never fail unexpectedly",
-              "Gain the required skills to use the most popular AngularJS testing tools, including Karma, Jasmine and Istanbul",
-              "Spend more time creating amazing new features instead of fixing bugs"
+              "Develop and utilize linear data structures, like queues and stacks, which are implemented with connected lists or arrays",
+              "Understand the basic process of OOP paradigm such as classes, polymorphism, inheritance, interfaces, and etc",
+              "How to write, compile, and run the basic Java applications"
           ]
       }
     },
      {
       "course_id" : 3,
-      "image_url" : "https://udemy-images.udemy.com/course/240x135/437398_46c3_9.jpg",
-      "course_name" : "Unit Testing AngularJS: Build Bugfree Apps That Always Work!",
-      "trainer": "Matthias Kentzia",
+      "image_url" : "https://s3.amazonaws.com/ekhool/c+programming.png",
+      "course_name" : "Design Your Own C Programm Basic Tutorial 2018",
+      "trainer": "Mobil Sam",
       "rating": 4.5,
       "rating_count": 345,
       "course_details" :{
-          "technology": "AngularJS",
+          "technology": "C Programming",
           "area": "Development",
           "lecture_count" : 15,
           "duration" : 3,
           "level" : "intermediate",
-          "description": "Learn how to use Karma, Jasmine and Istanbul to quickly set up automated unit tests for your AngularJS applications",
+          "description": "Develop and utilize linear data structures, like queues and stacks, which are implemented with connected lists or arrays",
           "quick_view" : [
-              "Build great AngularJS 1.X applications that will never fail unexpectedly",
-              "Gain the required skills to use the most popular AngularJS testing tools, including Karma, Jasmine and Istanbul",
-              "Spend more time creating amazing new features instead of fixing bugs"
+              "Understand the basic process of OOP paradigm such as classes, polymorphism, inheritance, interfaces, and etc",
+              "Develop the programs with loops and conditionals",
+              "Develop the programs with loops and conditionals"
           ]
       }
     },
      {
       "course_id" : 4,
-      "image_url" : "https://udemy-images.udemy.com/course/240x135/1035000_c1aa_2.jpg",
-      "course_name" : "Docker Mastery: The Complete Toolset From a Docker Captain",
+      "image_url" : "https://s3.amazonaws.com/ekhool/php.png",
+      "course_name" : "Basic Of PHP To Develop Web Applications",
       "trainer": "Matthias Kentzia",
       "rating": 4,
       "rating_count": 345,
       "course_details" :{
-          "technology": "AngularJS",
+          "technology": "Web Programming",
           "area": "Development",
           "lecture_count" : 15,
           "duration" : 3,
           "level" : "intermediate",
-          "description": "Learn how to use Karma, Jasmine and Istanbul to quickly set up automated unit tests for your AngularJS applications",
+          "description": "To study regarding how databases are used and how to begin the online application and also to study the MySQL",
           "quick_view" : [
-              "Build great AngularJS 1.X applications that will never fail unexpectedly",
-              "Gain the required skills to use the most popular AngularJS testing tools, including Karma, Jasmine and Istanbul",
-              "Spend more time creating amazing new features instead of fixing bugs"
+              "To learn about PHP security, Email sending, and Password hashing",
+              "Learn to create pagination, and debug the code",
+              "To generate a Content Management System"
           ]
       }
     }
